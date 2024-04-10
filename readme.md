@@ -1,12 +1,13 @@
-#TMDB - The Movie database
+# TMDB - The Movie database
 This full stack development project aims to create a movie review application utilizing MongoDB for the database, Java with Spring Boot for the backend, and React for the frontend. The project emphasizes a separation of concerns between the client and server code to facilitate a loosely coupled architecture, allowing for independent evolution and parallel development of these two parts.
 
-#Technologies Used
+# Technologies Used
 MongoDB: A NoSQL database used to store movie data and user reviews.
 Java: Backend development language.
 Spring Boot: A framework used for building and deploying Java-based applications.
 React: A JavaScript library for building user interfaces.
-Project Overview
+
+# Project Overview
 The movie review application allows users to:
 
 View a list of movies.
@@ -17,10 +18,10 @@ The backend, developed with Java and Spring Boot, provides RESTful APIs to inter
 
 The frontend, built with React, consumes these APIs to display movie information to users and allow them to interact with the application.
 
-#Getting Started
+# Getting Started
 To run the project locally, follow these steps:
 
-#Prerequisites
+# Prerequisites
 Install MongoDB on your system.
 Install Java Development Kit (JDK) version 8 or later.
 Install Node.js and npm to manage frontend dependencies.
@@ -32,8 +33,8 @@ After the installation is complete, run npm start to start the React development
 Usage
 Once the backend and frontend servers are running, you can access the movie review application by visiting http://localhost:3000 in your web browser.
 
-#Contributing
+# Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-#License
+# License
 This project is licensed under the MIT License.
